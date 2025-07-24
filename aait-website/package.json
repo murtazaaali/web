@@ -8,6 +8,7 @@
     "@emotion/styled": "11.11.0",
     "@mui/icons-material": "5.15.10",
     "@mui/material": "5.15.10",
+    "@vercel/speed-insights": "^1.2.0",
     "framer-motion": "^11.0.8",
     "gsap": "^3.12.5",
     "react": "^18.2.0",
